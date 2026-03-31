@@ -1,0 +1,16 @@
+from generators import generate_proctor_email
+from ai_engine import generate_creative_assets
+
+def main():
+    print("--- 🚀 Intelligent Event Automator ---")
+    name = input("Event Name: ")
+    theme = input("Theme: ")
+    date = input("Date: ")
+    user = input("Your Name: ")
+
+    print("\n--- Generating Assets ---")
+    print(generate_proctor_email(name, date, "Campus Hall", user))
+    print(generate_creative_assets(name, theme))
+
+if __name__ == "__main__":
+    main()
