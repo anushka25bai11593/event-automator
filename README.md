@@ -1,8 +1,5 @@
 # event-automator
-📧 Automated Formal Correspondence: Generates structured permission emails for faculty and proctors using Python string templates.
-
-🎨 AI-Driven Design Ideation: Provides specific Hex color codes, typography pairings, and poster prompts optimized for Canva and Midjourney.
-
-📱 Multi-Platform Content: Tailors event announcements for both high-energy Instagram posts and professional LinkedIn updates.
-
-⚡ Powered by Gemini 1.5 Flash: High-speed LLM integration for near-instant content generation.
+📧 Automated Formal Correspondence: Describes email generation functionality for faculty and proctors
+🎨 AI-Driven Design Ideation: Explains the design brief capabilities with specific details about color codes and typography
+📱 Multi-Platform Content: Details social media content generation across different platforms (Instagram and LinkedIn)
+⚡ Powered by Gemini 1.5 Flash: Emphasizes the LLM technology used
