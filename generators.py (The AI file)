@@ -1,0 +1,14 @@
+def generate_proctor_email(event_name, date, venue, organizer):
+    return f"""
+Subject: Permission Request for {event_name}
+    
+Respected Proctor,
+    
+I am writing to request formal permission to conduct the event "{event_name}" 
+on {date} at {venue}. 
+
+We kindly request your approval for the venue and necessary logistics.
+    
+Regards,
+{organizer}
+    """
