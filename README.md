@@ -78,8 +78,11 @@ python main.py
 Plaintext
 
 ├── main.py            # Main entry point & User Interface
+
 ├── ai_engine.py       # Gemini API integration & Prompt Engineering logic
+
 ├── generators.py      # Python logic for emails and templates
+
 └── requirements.txt   # Project dependencies
 
 # Reflection & Course Relevance
