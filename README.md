@@ -55,7 +55,7 @@ You need a Google Gemini API Key.
 Bash
 
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/event-automator.git
+git clone https://github.com/anushka25bai11593/event-automator.git
 
 # Enter the project folder
 cd event-automator
